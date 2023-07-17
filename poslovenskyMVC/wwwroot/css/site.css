@@ -1,0 +1,20 @@
+#logo {
+    max-width: 200px;
+}
+
+p {
+    font-size: large;
+}
+
+.card-img {
+    max-height: 155px;
+    object-fit: cover;
+}
+
+.views-img-small {
+    max-height: 10px;
+}
+
+.views-img-big {
+    max-height: 15px;
+}
